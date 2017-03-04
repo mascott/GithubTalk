@@ -1,3 +1,3 @@
 # GithubTalk
 
-We're talking
+We're talking!
